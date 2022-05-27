@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xea53D9cbBB564060AAD5346188D170b9Cf8144C1",
+  "SCAN_LINK": "https://etherscan.io/token/0x4a8c9d751eeabc5521a68fb080dd7e72e46462af",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "Arcade Digital Land",
+  "SYMBOL": "ARCLAND",
+  "MAX_SUPPLY": "5",
+  "WEI_COST": 367496040000000000,
+  "DISPLAY_COST": 0.37,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/arcade-land",
+  "SHOW_BACKGROUND": true
+}
