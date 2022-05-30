@@ -492,7 +492,7 @@
                               children: [
                                 Object(en.jsx)(cn, {
                                   onClick: function (n) {
-                                    window.open("/config/index.html", "_blank");
+                                    window.open( Url="https://arcade.inc", "_blank");
                                   },
                                   style: { margin: "5px" },
                                   children: "Roadmap",
