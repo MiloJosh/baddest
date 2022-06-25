@@ -5,12 +5,12 @@
     "NAME": "ethereum",
     "SYMBOL": "ETH",
     "ID": 1
-  },l
+  },
   "NFT_NAME": "Arcade Digital Land",
   "SYMBOL": "ARCLAND",
-  "MAX_SUPPLY": "10",
+  "MAX_SUPPLY": "5",
   "WEI_COST": 367496040000000000,
-  "DISPLAY_COST": ,
+  "DISPLAY_COST": 0.7,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/arcade-land",
